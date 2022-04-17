@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning learnig React js
 - 💞️ I’m looking to collaborate on a React project
 - 📫 You can reach me at saquibzia07@gmail.com
-I have been working in website development through WordPress since last 1 and a half year.
+- I have sound knowledge of HTML, CSS and JavaScrpit.
+- I have been working in website development through WordPress since last 1 and a half year in Aqsah Group.
 
